@@ -1,0 +1,4 @@
+Content of f1
+Updated f1
+Another update for f1 on master
+Changes in f1 on branch B

@@ -1,0 +1,3 @@
+Content of f3
+Updated f3
+New changes in f3 on branch A
